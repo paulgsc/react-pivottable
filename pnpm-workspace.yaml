@@ -1,2 +1,3 @@
 packages:
-  - "packages/pivot-search"
+  - apps/pivot-search
+  - "packages/*"
